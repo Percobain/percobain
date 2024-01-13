@@ -17,6 +17,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=percobain&show_icons=true&locale=en&layout=compact" alt="percobain" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=percobain&show_icons=true&locale=en" alt="percobain" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=percobain&" alt="percobain" /></p>
