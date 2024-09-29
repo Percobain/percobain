@@ -4,7 +4,7 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shreyans-tatiya-8845a2274/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ShreyansTatiya) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shreyans-tatiya-8845a2274/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ShreyansTatiya) 
 
 
 # 💻 Tech Stack:
@@ -18,4 +18,4 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=percobain&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 </details>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=percobain&label=Profile%20views&color=0e75b6&style=flat" alt="percobain" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=percobain&label=Profile%20views&color=dc143c&style=flat" alt="percobain" /> </p>
